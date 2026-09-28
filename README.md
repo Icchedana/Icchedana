@@ -47,5 +47,5 @@
 ---
 
 ### 📫 How to Reach Me
-* 🌐 Portfolio: [Visit My Portfolio](https://github.com/Icchedana) *(তুমি তোমার পোর্টফোলিও লিংক বসিয়ে দিতে পারো)*
-* 💼 LinkedIn: [Let's Connect](https://linkedin.com) *(তোমার লিংকডইন আইডি যুক্ত করতে পারো)*
+* 🌐 Portfolio: [Visit My Portfolio](https://iccheghurirdana.blogspot.com) 
+  
